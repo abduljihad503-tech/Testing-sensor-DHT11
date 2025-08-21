@@ -21,7 +21,7 @@
 #include <BlynkSimpleEsp8266.h>
 char auth[] = BLYNK_AUTH_TOKEN;
 // Sesuaikan dengan ssid dan password hotspot anda
-char ssid[] = "jogjardutech";
+char ssid[] = "Kucing1710";
 char pass[] = "12345678";
 
 #include <MQ135.h>
